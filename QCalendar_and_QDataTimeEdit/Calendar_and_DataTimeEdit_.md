@@ -22,7 +22,7 @@ def show_data(self, data):
 ```
 
 
-> **date_time2.setCalendarPopup(True)   这个比较实用   将日期编辑栏结合日历控制**
+> **date_time2.setCalendarPopup(True)   这个比较实用    将日期编辑栏结合日历控制**
 
 ```python
 # QDateTimeEdit   
