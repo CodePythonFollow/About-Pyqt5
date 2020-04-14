@@ -1,6 +1,6 @@
 # Calendar    and   DateTimeEdit
 
-> **注意date、 time、 datetime类似全局变量**
+> **注意date、 time、 datetime是clicked函数传入的。在后一章的triggered事件的参数中可能更好理解这一点**
 
 ```python
 # 日历控件   
