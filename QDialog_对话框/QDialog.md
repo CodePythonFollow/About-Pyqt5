@@ -2,6 +2,13 @@
 
 ###### 一、QMessageBox  显示消息   
 
++ **通式   这里的icon数字控制和下面五种等效**
+
+  ```python
+  QMessageBox(QMessageBox.Icon(1), '您选择了：', index.data()).exec_()
+  ```
+
+
 1. 关于对话框
 
    ```python
