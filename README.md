@@ -28,7 +28,7 @@
 
    5. 将界面放置到系统、并实例化我们创建的类、调用show方法、系统退出等待界面退出    **（必须）**
 
-      ![](images\流程.png)
+      ![](https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/%E6%B5%81%E7%A8%8B.png)
       
       
 
