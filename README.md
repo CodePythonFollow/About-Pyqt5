@@ -63,4 +63,4 @@
   首先我们按照源码**写示例的这个状态**然后我们按住该快捷键**(ctrl + alt + b)**就能t跳到到如下位置   **前面有个※可以点击即可看到该状态的值**
   
   <img src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/State.png" style="zoom:150%;" />
-  <video src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7.mp4"></video>
+  <video  controls="controls" width="500" height="300"><source id="mp4" src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7.mp4" type="video/mp4"></video>
