@@ -1,6 +1,6 @@
 # About-Pyqt5
 
-### 如果文中图片不显示可开代理或者在host文件下更改dns路径具体可参考> https://blog.csdn.net/weixin_42128813/article/details/102915578
+### 如果文中图片不显示可开代理或者在host文件下更改dns路径具体可参考 https://blog.csdn.net/weixin_42128813/article/details/102915578
 
 ###### 				PyQt5介绍，每个文件下是各个控件的介绍和基本使用，核心代码在每个文件下的笔记中都有罗列。
 
