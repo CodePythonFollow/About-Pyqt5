@@ -1,5 +1,7 @@
 # About-Pyqt5
 
+### 如果文中图片不显示可开代理或者在host文件下更改dns路径具体可参考 https://blog.csdn.net/weixin_42128813/article/details/102915578
+
 ###### 				PyQt5介绍，每个文件下是各个控件的介绍和基本使用，核心代码在每个文件下的笔记中都有罗列。
 
 ###### 		        代码部分为具体的实现和基本使用，修改日期基本上是我学习做笔记的日期，前面可能很多不太规范，但是所有的导包和逻辑还算清楚。后面没有做过多的修改，很多不懂的在后面慢慢弄懂后都有补充和修改，有的可能在后面进行了补充。    (*^▽^*)
@@ -63,3 +65,6 @@
   首先我们按照源码**写示例的这个状态**然后我们按住该快捷键**(ctrl + alt + b)**就能t跳到到如下位置   **前面有个※可以点击即可看到该状态的值**
   
   <img src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/State.png" style="zoom:150%;" />
+  <img src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/声明技巧.png" />
+  <img src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/声明技巧2.png" />
+  <img src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/声明技巧3.png" />
