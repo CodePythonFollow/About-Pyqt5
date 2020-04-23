@@ -28,7 +28,7 @@
 
    5. 将界面放置到系统、并实例化我们创建的类、调用show方法、系统退出等待界面退出    **（必须）**
 
-      ![](images\流程.png)
+      ![images](https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/%E6%B5%81%E7%A8%8B.png)
       
       
 
@@ -40,13 +40,13 @@
 
 + 由于Python的原因PyQt5的各种参数控件等都是一个**类**，所以当我们需要用到什么控件可以查看该类的方法等（Ctrl+该类名即可跳转至该函数的源代码）     主要看**类的注释部分**    **如下：**
 
-  ![](images\介绍.png)
+  ![](https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/介绍.png)
 
   
 
 + 有的时候我们想知道我们写到某些方法时不知道里面的参数**按住ctrl鼠标放在这个函数名上**显示我们需要**写入的参数**   如图：
 
-  ![](images\方法.png)
+  ![](https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/方法.png)
   
   
 
@@ -54,7 +54,7 @@
 
   其实如果没用到pycharm也会有波浪线提示   (不用也没关系，一开始没怎么注意，后面基本把有波浪线																				的部分都换了，遵循PEP 8规范 *其实是看着波浪线不舒服*)
 
-  ![](images\静态.png)
+  ![](https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/静态.png)
 
 + 当我们设置到类似一些需要用到常量的部分可以先按照源码写，当我们想看看其他状态时**点击当前的设置的状态**按住  **ctrl + alt + b**查看引用的位置可查到状态的有关参数。具体值可在看定义位置
 
@@ -62,4 +62,4 @@
 
   首先我们按照源码**写示例的这个状态**然后我们按住该快捷键**(ctrl + alt + b)**就能t跳到到如下位置   **前面有个※可以点击即可看到该状态的值**
   
-  <img src="images/State.png" style="zoom:150%;" />
+  <img src="https://github.com/CodePythonFollow/About-Pyqt5/blob/master/images/State.png" style="zoom:150%;" />
